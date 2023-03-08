@@ -1,2 +1,2 @@
 #!/bin/bash
-README for alx engineers
+README alx engineers

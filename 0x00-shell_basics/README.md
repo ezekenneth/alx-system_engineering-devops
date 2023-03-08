@@ -1,2 +1,2 @@
 #!/bin/bash
-README for shell basics
+README shell basics
