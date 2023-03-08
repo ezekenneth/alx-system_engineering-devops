@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/7676740588783427223703870522975429825422_5/205/330833/0x00-shell_basics
+print(os.path.abspath(os.getcwd()))
